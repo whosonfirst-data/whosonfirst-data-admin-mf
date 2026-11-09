@@ -40,7 +40,7 @@
         "gn:id":6985384
     },
     "wof:country":"MF",
-    "wof:geomhash":"9462476932836808d61ddb8f01b49089",
+    "wof:geomhash":"e5b09b000aa83f25bfb4f99422df6174",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -63.03964000000001,
     18.06606
 ],
-  "geometry": {"coordinates":[-63.03964000000001,18.06606],"type":"Point"}
+  "geometry": {"coordinates":[-63.03964,18.06606],"type":"Point"}
 }
